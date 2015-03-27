@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/kawserfatema/NodeAsgn/issues"
   },
-  "homepage": "https://github.com/kawserfatema/NodeAsgn"
+  "homepage": "https://github.com/kawserfatema/NodeAsgn",
+  "dependencies": {
+    "express": "^4.12.3"
+  }
 }
